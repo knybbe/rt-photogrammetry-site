@@ -1,0 +1,1 @@
+export{t as synthScene}from"./splatSynth-CoXg_2Q_.js";
