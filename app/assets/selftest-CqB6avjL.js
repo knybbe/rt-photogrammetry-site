@@ -1,1 +1,0 @@
-import"./modulepreload-polyfill-P2Xu9kJm.js";import{o as e,r as t,s as n}from"./pg_wasm-BHWhPkIi.js";var r=document.querySelector(`#out`),i=document.querySelector(`#out_sweep`);try{await t(),r.textContent=await e(),i.textContent=await n()}catch(e){i.textContent=JSON.stringify({error:String(e)})}
